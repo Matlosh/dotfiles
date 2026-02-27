@@ -1,0 +1,4 @@
+#!/usr/bin/bash
+
+systemctl --user start pipewire-pulse.service
+systemctl start bluetooth.service

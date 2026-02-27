@@ -1,0 +1,4 @@
+#!/usr/bin/bash
+
+ip link set enp42s0 up
+dhcpcd enp42s0
