@@ -16,6 +16,7 @@ git clone https://github.com/Matlosh/dotfiles.git
 - scripts/ - collection of simple daily use scripts
 - .config/ - configuration files for various applications
   - nvim/ - Neovim configuration
-  - hypr/ - Hyprland configuration
+  - hypr/ - Hyprland (main graphical envrionment) configuration
   - kitty/ - Kitty terminal emulator configuration
+  - waybar/ - Waybar (top bar) configuration
 
