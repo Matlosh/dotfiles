@@ -1,3 +1,6 @@
+# for some reason adding !/usr/bin/bash breaks the script lol
+# gotta check it out soon
+
 WAYBAR_PID=$(ps -a | grep waybar | awk '{print $1}')
 
 if [ -z "$WAYBAR_PID" ]; then
